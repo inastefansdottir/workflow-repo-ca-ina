@@ -9,7 +9,7 @@ It includes a JavaScript front-end with **end-to-end (E2E) testing** using **Pla
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/workflow-repo-ca-ina.git
+git clone https://github.com/inastefansdottir/workflow-repo-ca-ina.git
 cd workflow-repo-ca-ina
 ```
 
