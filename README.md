@@ -36,6 +36,10 @@ The project contains a `.env.example` file to show an example of how to set up t
 - Do **not** commit your `.env` file to GitHub.
 - The `.env` file is already listed in `.gitignore`.
 
+**Required Environment Variables for E2E Tests:**
+- `TEST_USER_EMAIL` - Email of a test user
+- `Test_User_password` - Password of the test user
+
 ### 4. Start the local Server
 
 Run the local development server using:
